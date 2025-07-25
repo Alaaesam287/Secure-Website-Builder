@@ -1,4 +1,4 @@
-# 🛡️ Threats Table — Secure E-Commerce Website Builder
+# Threats Table — Secure E-Commerce Website Builder
 
 | Component               | Vulnerability                                              | What It Could Lead To                                                                  | Risk Level   | Mitigation                                                                   |
 |:------------------------|:-----------------------------------------------------------|:---------------------------------------------------------------------------------------|:-------------|:-----------------------------------------------------------------------------|
